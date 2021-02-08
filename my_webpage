@@ -5,8 +5,21 @@
         <title>Welcome to Shamim's portfolio</title>
     </head>
     <body>
-   <img src="csc106_banner.jpg">
-        <img src="pasted image 0.png">
+   <img src="https://github.com/Mdshamim-reza/Mdshamim-reza.github.io/blob/main/Shamim_Banner.jpg">
+        <table>
+            <thead>
+                 <tr>
+                    <th> <a target="_blank" href="">
+                       <img src="" alt=""> </a> </th>
+                     <th> <a target="_blank" href="">
+                       <img src="" alt=""> </a> </th>
+                        <th> <a target="_blank" href="">
+                       <img src="" alt=""> </a> </th>
+                        <th> <a target="_blank" href="">
+                       <img src="" alt=""> </a> </th>
+                     </tr>
+                 </thead>
+              </table>
 <h1> Hello Humans, Welcome to Shamim's world!! </h1>
         <p>Hi all, this is my new website for my assighnment. I will be telling you about javascripts and me later on. Hope you guys will enjoy it.</p>
     </body>
